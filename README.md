@@ -51,5 +51,3 @@ You can also follow us on social media:
 We acknowledge the data source and any external libraries used in the project. We thank the community for its support and contributions.
 
 This README file serves as a guide to understanding the project, its objectives, code structure, and potential contributions, ensuring transparency and accessibility for collaborators and users.
-
-This Markdown document outlines the project's purpose, the dataset, code structure, how to use the project, contributions, license, author information, and acknowledgments. It provides a clear and organized overview of the project for collaborators and users.
